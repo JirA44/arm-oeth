@@ -1,3 +1,13 @@
+## Français
+
+Contrats Automated Redemption Manager pour Origin ETH (OETH), qui facilitent les rachats selon les mécanismes du protocole. Exemple : étudier les flux de rachat et les tests ; les contrats financiers exigent une revue indépendante avant utilisation.
+
+## English
+
+Automated Redemption Manager contracts for Origin ETH (OETH), supporting redemptions under the protocol’s mechanisms. Example: study redemption flows and tests; financial contracts require independent review before use.
+
+---
+
 # Automated Redemption Manager (ARM)
 
 There are currently three ARM contracts:
